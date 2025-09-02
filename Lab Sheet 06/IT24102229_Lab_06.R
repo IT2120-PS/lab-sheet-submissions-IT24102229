@@ -1,6 +1,6 @@
 setwd("C:\\Users\\it24102229\\Desktop\\IT24102229")
 
-#Quetion 1
+#Question 1
 
 #1
 #Binomial Distribution
@@ -9,7 +9,7 @@ setwd("C:\\Users\\it24102229\\Desktop\\IT24102229")
 1-pbinom(47,50,0.85,lower.tail =FALSE)
 
 
-#Quetion 2
+#Question 2
 
 #1
 #number of customer calls per hour
@@ -19,3 +19,4 @@ setwd("C:\\Users\\it24102229\\Desktop\\IT24102229")
 
 #3
 dpois(15,12)
+
